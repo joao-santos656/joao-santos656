@@ -1,3 +1,4 @@
 - 👋 Salve, sou @joao-santos656
-- estou cursando o 2°semestre de ADS na Fatec 
-- gosto de jogar e sou interessado por carros
+- Estou cursando o 2°semestre de ADS na Fatec
+- Sou interessado por carros e meotos
+- Gosto de jogar no meu tempo livre
